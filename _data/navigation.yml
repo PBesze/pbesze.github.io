@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Link 1"
+  - title: "Home"
     url: /
 
-  - title: "Link 2"
-    url: /
+  - title: "Drioca"
+    url: https://drioca.github.com
     
-  - title: "Link 3"
-    url: /
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/pbesze
