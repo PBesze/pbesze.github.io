@@ -63,9 +63,9 @@ analytics:
 author:
   name             : "Peter Besze"
   avatar           : "bio-photo.jpg"
-  bio              : "Java (?)"
+  bio              : "I am young, gifted and black"
   location         : "Hungary - Budapest"
-  email            :
+  email            : "pbesze@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -78,10 +78,10 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # https://www.linkedin.com/in/pbesze
+  linkedin         : https://www.linkedin.com/in/pbesze
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : http://stackoverflow.com/users/6692999/pbesze
   steam            :
   tumblr           :
   twitter          :
