@@ -2,7 +2,7 @@
 title: "About"
 layout: single
 excerpt: "About --"
-sitemap: false
+sitemap: truth
 permalink: /about/
 ---
 
