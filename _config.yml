@@ -204,3 +204,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+analytics:
+  provider: "google-universal"
+    tracking_id: "UA-82209548-1"
