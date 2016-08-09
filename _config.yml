@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Peter Besze"
 title_separator          : "-"
 name                     : "Peter Besze"
-description              : "Developers website."
+description              : "Java Developers website."
 url                      : # the base hostname & protocol for your site e.g. "https://pbesze.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub pbesze/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -63,7 +63,7 @@ analytics:
 author:
   name             : "Peter Besze"
   avatar           : "bio-photo.jpg"
-  bio              : "I am young, gifted and black - junior in Java"
+  bio              : "I am young, gifted and black"
   location         : "Hungary - Budapest"
   email            : "pbesze@gmail.com"
   uri              :
