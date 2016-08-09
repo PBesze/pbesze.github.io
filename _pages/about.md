@@ -1,9 +1,8 @@
 ---
 title: "About"
-layout: single
 excerpt: "About --"
 sitemap: truth
-permalink: /about/
+permalink: /
 ---
 
 Peter Besze as junior Java developers webpage
