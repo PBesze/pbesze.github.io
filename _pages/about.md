@@ -1,8 +1,8 @@
 ---
 title: "About"
 excerpt: "About --"
-sitemap: truth
+sitemap: true
 permalink: /about/
-
+author_profile: true
 ---
 Peter Besze as junior Java developers webpage
