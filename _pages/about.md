@@ -3,7 +3,7 @@ title: "About"
 excerpt: "About --"
 sitemap: truth
 permalink: /about/
----
+
 
 defaults:
   # _pages
@@ -13,4 +13,5 @@ defaults:
     values:
       layout: single
       author_profile: true
+---
 Peter Besze as junior Java developers webpage
