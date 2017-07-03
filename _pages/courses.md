@@ -7,8 +7,8 @@ author_profile: true
 ---
 
 <br>
-Jun 2017 		Data Structures and Performance<br>
-authorized by University of California, San Diego and offered through Coursera<br>
+Jun 2017 		**Data Structures and Performance**<br>
+authorized by *University of California, San Diego* and offered through Coursera<br>
 <a href="https://www.coursera.org/learn/data-structures-optimizing-performance">
     <input type="button" value="Description" />
    </a>
@@ -16,8 +16,8 @@ authorized by University of California, San Diego and offered through Coursera<b
     <input type="button" value="Certificate" />
    </a>
 <br><br>
-May 2017 		Object Oriented Programming in Java<br>
-authorized by University of California, San Diego and offered through Coursera<br>
+May 2017 		**Object Oriented Programming in Java**<br>
+authorized by *University of California, San Diego* and offered through Coursera<br>
 <a href="https://www.coursera.org/learn/object-oriented-java">
     <input type="button" value="Description" />
    </a>
@@ -25,10 +25,7 @@ authorized by University of California, San Diego and offered through Coursera<b
     <input type="button" value="Certificate" />
    </a>
 <br><br>
-April 2017 		30 Days of Code – Java - www.hackerrank.com<br>
+April 2017 		**30 Days of Code – Java** - *[www.hackerrank.com]*(https://www.hackerrank.com/domains/tutorials/30-days-of-code)<br>
 <br>
-<a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">
-    <input type="button" value="Description" />
-  
-   </a>
+
    
