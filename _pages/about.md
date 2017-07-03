@@ -5,6 +5,6 @@ sitemap: true
 permalink: /about/
 author_profile: true
 ---
-With severeal years of experience in IT consultancy and experience in software development projects, I learn also Java programming and develop my knowledge in different ways of self learning.
-This page id focusing on my Java skills.
+With severeal years of experience in IT consultancy and experience in software development projects, I learn also Java programming and develop my knowledge in different ways of self learning.<br>
+This page id focusing on my Java skills.<br>
 For professional CV you can visit my LinkedIn page.
