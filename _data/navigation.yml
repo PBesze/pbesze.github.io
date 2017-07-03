@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Drioca"
-    url: https://drioca.github.io
+  - title: "Courses"
+    url: https://pbesze.github.io/courses
     
   - title: "Projects"
     url: https://pbesze.github.io/projects
