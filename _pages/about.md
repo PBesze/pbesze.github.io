@@ -5,4 +5,6 @@ sitemap: true
 permalink: /about/
 author_profile: true
 ---
-Peter Besze as junior Java developers webpage
+With severeal years of experience in IT consultancy and experience in software development projects, I learn also Java programming and develop my knowledge in different ways of self learning.
+This page id focusing on my Java skills.
+For professional CV you can visit my LinkedIn page.
