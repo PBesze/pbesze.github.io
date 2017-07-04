@@ -28,7 +28,7 @@ Regular expressions are useful tools while managing text based objects.<br>
  
 **Exception handling** <br>
 Handling of exception is an important part of codeing especially when we code for real life data and  real users.<br>
- [Example code >>>>](https://pbesze.github.io/sample-codes/exception-handling.md){:target="_blank"}
+ [Example code >>>>](https://pbesze.github.io/sample-codes/exception-handling/){:target="_blank"}
 	
 
  **Collections.sort with lambda expressions**<br>
