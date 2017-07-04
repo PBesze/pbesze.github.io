@@ -5,7 +5,7 @@ sitemap: true
 permalink: /sample-codes/implementing-compareTo/
 author_profile: true
 ---
-The compareTo method is another way of comparing objects:
+The 'compareTo' method is another way of comparing objects:
 
 
 ~~~~
