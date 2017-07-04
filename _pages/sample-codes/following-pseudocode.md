@@ -7,7 +7,8 @@ author_profile: true
 ---
 <br>
 In a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in a trie search:<br>
-*The task was part of the [Data Structures and Performance course](https://www.coursera.org/learn/data-structures-optimizing-performance)*
+*The task was part of my [Data Structures and Performance course](https://www.coursera.org/learn/data-structures-optimizing-performance)*
+
 
 ~~~~
 
@@ -70,4 +71,5 @@ public List<String> predictCompletions(String prefix, int numCompletions)
  					
          return Collections.emptyList();
      }
+     
      ~~~~
