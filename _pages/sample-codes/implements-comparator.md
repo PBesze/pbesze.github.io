@@ -6,7 +6,7 @@ permalink: sample-codes/implements-comparator/
 author_profile: true
 ---
 
-Checker class implements Comparator class, that players are compared by score and name: 
+In this simple generaly known example Checker class implements [Interface Comparator<T>](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html), that players are compared by score and name: 
 	
 ~~~~
 	class Checker implements Comparator<Player>{
