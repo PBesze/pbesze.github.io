@@ -1,6 +1,6 @@
 ---
 title: "Implements Comparator"
-excerpt: "Sample codes"
+excerpt: "implements-comparator"
 sitemap: true
 permalink: sample-codes/implements-comparator/
 author_profile: true
