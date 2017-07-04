@@ -56,7 +56,7 @@ public class Solution {
 }
 ~~~~
 	
-	[Implementing (the Comparator) interface] (https://pbesze.github.io/sample-codes/implements-comparator)
+	**Implementing (the Comparator) interface** (https://pbesze.github.io/sample-codes/implements-comparator)
   <br>
 	
 
