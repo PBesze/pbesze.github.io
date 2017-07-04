@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 **Java Arraylist**<br>
-To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist):
+To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
 	
 ~~~~
 import java.io.*;
