@@ -28,9 +28,9 @@ The compareTo method is another way of comparing objects:<br>
   <br>
  
   **Collections.sort with lambda expressions**<br>
-Interface Comparator<T> is also a functional interface and can be used with lambda expressions.<br>
+Interface Comparator is also a functional interface and can be used with lambda expressions.
+<br>
 [Example code >>>>](https://pbesze.github.io/sample-codes/collections-sort-with-lambda-expressions)
-  <br>
   
 **Exception handling** <br>
 Handling of exceptions is an important part of codeing especially when we code for real life data and  real users.<br>
