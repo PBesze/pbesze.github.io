@@ -9,53 +9,9 @@ Here you can see some *exapmle codes* of me used in tasks and exercises during m
 
 **Queries in Arraylist**<br>
 To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
- [Example code >>>>](https://pbesze.github.io/sample-codes/quesries-in-arraylist.md)
+ [Example code >>>>](https://pbesze.github.io/sample-codes/queries-in-arraylist.md)
 	
-~~~~
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
-public class Solution {
-
-    public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-                       Scanner in = new Scanner(System.in);
-       
-        int m=0;
-        
-        List<Integer> row = new ArrayList<Integer>();
-        List<List<Integer>> array = new ArrayList<List<Integer>>();
-         int n = in.nextInt();
-        for(int i = 0;i<n;i++){
-            //input rows
-           
-            m = in.nextInt();
-            for (int j=0;j<m;j++){
-                row.add(in.nextInt());
-        
-            }
-        
-            array.add(row);
-            row= new ArrayList<Integer>();
-        }
-        n = in.nextInt();
-
-      
-        int x =0;
-        int y=0;
-        for(int i = 0;i<n;i++){
-            x = in.nextInt();
-            y = in.nextInt();
-            try {System.out.println( array.get(x-1).get(y-1) );}
-            catch (Exception e){System.out.println("ERROR!");}
-        }
-
-    }
-}
-~~~~
 	
 **Implementing (the Comparator) interface**
 Implementing abstract classes and interfaces are effective tools for the functionality of multiple inheritance.
@@ -75,20 +31,7 @@ Regular expressions are useful tools while managing text based objects.
 Handling of exception is an important part of codeing especially when we code for real life data and  real users.
  [Example code >>>>](https://pbesze.github.io/sample-codes/exception-handling.md){:target="_blank"}
 	
-~~~~
- class MyCalculator {
-     public int power (int n, int p) throws Exception {
-         
-         if(n < 0 || p < 0)
-              {throw new Exception("n and p should be non-negative");}
-         else {
-                 return ((int) Math.pow((double) n,(double) p));
-             }
-     }
-     
-     
- }
- ~~~~
+
  **Collections.sort with lambda expressions**<br>
  
   [Example code >>>>](https://pbesze.github.io/sample-codes/sort-with-lambda-expressions.md){:target="_blank"}
