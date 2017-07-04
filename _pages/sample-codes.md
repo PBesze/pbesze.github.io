@@ -10,7 +10,8 @@ author_profile: true
 	To solve this task on hackerrank.com:
 	https://www.hackerrank.com/challenges/java-arraylist
 	
-	`import java.io.*;
+	`
+  import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
@@ -57,8 +58,8 @@ public class Solution {
 	
 	**Implements Comparator** <br>
 	
-	
-`	class Checker implements Comparator<Player>{
+```
+class Checker implements Comparator<Player>{
     @Override
     public int compare(Player a, Player b){
         if (a.score == b.score){
@@ -68,7 +69,7 @@ public class Solution {
         }
     }
 }
-`
+```
 **Following pseudocode** <br>
 
 
