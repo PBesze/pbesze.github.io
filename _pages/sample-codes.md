@@ -10,7 +10,7 @@ author_profile: true
 	To solve this task on hackerrank.com:
 	https://www.hackerrank.com/challenges/java-arraylist
 	
-	`
+~~~~
   import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -54,7 +54,7 @@ public class Solution {
 
     }
 }
-	`
+~~~~
 	
 	[**Implements Comparator**] (https://pbesze.github.io/sample-codes/implements-comparator)
   <br>
