@@ -5,6 +5,7 @@ sitemap: true
 permalink: /sample-codes/
 author_profile: true
 ---
+Here you can see some *exapmle codes* of me used in tasks and exercises during my studies.
 
 **Queries in Arraylist**<br>
 To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
@@ -72,7 +73,7 @@ Regular expressions are useful tools while managing text based objects.
  
 **Exception handling** <br>
 Handling of exception is an important part of codeing especially when we code for real life data and  real users.
- [Example code >>>>](https://pbesze.github.io/sample-codesexception-handling.md){:target="_blank"}
+ [Example code >>>>](https://pbesze.github.io/sample-codes/exception-handling.md){:target="_blank"}
 	
 ~~~~
  class MyCalculator {
@@ -87,6 +88,10 @@ Handling of exception is an important part of codeing especially when we code fo
      
      
  }
+ ~~~~
+ **Collections.sort with lambda expressions**<br>
+ 
+  [Example code >>>>](https://pbesze.github.io/sample-codes/sort-with-lambda-expressions.md){:target="_blank"}
 
 	
-~~~~
+
