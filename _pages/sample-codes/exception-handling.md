@@ -2,7 +2,7 @@
 title: "Exeption handling"
 excerpt: "exception handling"
 sitemap: true
-permalink: /sample-codes/exception-handling
+permalink: /sample-codes/exception-handling.md
 author_profile: true
 ---
 Here
