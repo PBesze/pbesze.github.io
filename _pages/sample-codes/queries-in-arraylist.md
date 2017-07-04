@@ -1,8 +1,8 @@
 ---
 title: "queries in arraylist"
-excerpt: "queries in arraylist"
+excerpt: "queries-in-arraylist"
 sitemap: true
-permalink: /sample-codes/queries-in-arraylist.md
+permalink: /sample-codes/queries-in-arraylist/
 author_profile: true
 ---
 
