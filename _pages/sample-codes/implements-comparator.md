@@ -2,7 +2,7 @@
 title: "Implements Comparator"
 excerpt: "Sample-codes"
 sitemap: true
-permalink: /implements-comparator/
+permalink: sample-codes/implements-comparator/
 author_profile: true
 ---
 
