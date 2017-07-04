@@ -6,9 +6,9 @@ permalink: /sample-codes/
 author_profile: true
 ---
 
-**Java Arraylist**<br>
+**Queries in Arraylist**<br>
 To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
- <a href="http://example.com/" target="_blank">Hello, world!</a>
+ [Example code >>>>](https://pbesze.github.io/sample-codes/quesries-in-arraylist.md)
 	
 ~~~~
 import java.io.*;
@@ -56,17 +56,23 @@ public class Solution {
 }
 ~~~~
 	
-[**Implementing (the Comparator) interface**](https://pbesze.github.io/sample-codes/implements-comparator)
+**Implementing (the Comparator) interface**
+Implementing abstract classes and interfaces are effective tools for the functionality of multiple inheritance.
+[Example code >>>>](https://pbesze.github.io/sample-codes/implements-comparator){:target="_blank"}
   <br>
 	
 
 **Following pseudocode** <br>
-
+In a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in a trie search:
+ [Example code >>>>](https://pbesze.github.io/sample-codes/following-pseudocode.md)
 
 **RegEx** <br>
-
-**Exception handlig** <br>
-
+Regular expressions are useful tools while managing text based objects.
+ [Example code >>>>](https://pbesze.github.io/sample-codes/regex.md)
+ 
+**Exception handling** <br>
+Handling of exception is an important part of codeing especially when we code for real life data and  real users.
+ [Example code >>>>](https://pbesze.github.io/sample-codesexception-handling.md)
 	
 ~~~~
  class MyCalculator {
