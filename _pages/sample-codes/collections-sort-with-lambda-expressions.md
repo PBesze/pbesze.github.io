@@ -6,7 +6,7 @@ permalink: /sample-codes/collections-sort-with-lambda-expressions/
 author_profile: true
 ---
 
-[Interface Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html){:target="_blank"} 
+[Interface Comparator<V>](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html){:target="_blank"} 
 is also a functional interface and can be used with lambda expressions.
 <br>
 
