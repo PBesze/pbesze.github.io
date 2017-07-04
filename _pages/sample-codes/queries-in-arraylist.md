@@ -6,7 +6,7 @@ permalink: /sample-codes/queries-in-arraylist.md
 author_profile: true
 ---
 
-
+To solve [a task on hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"} I wrote the following code:
 
 
 ~~~~
