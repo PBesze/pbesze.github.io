@@ -5,7 +5,7 @@ sitemap: true
 permalink: /sample-codes/exception-handling/
 author_profile: true
 ---
-Here
+Handling of exceptions is an important part of codeing especially when we code for real life data and real users.<br>
 
 
 ~~~~
