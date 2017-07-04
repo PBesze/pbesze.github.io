@@ -6,12 +6,86 @@ permalink: /sample-codes/
 author_profile: true
 ---
 
-<br>
-**Implements**
+**Java Arraylist**<br>
+	To solve this task on hackerrank.com:
+	https://www.hackerrank.com/challenges/java-arraylist
+	
+	import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
-<br>
-**Follow pseudocode**
+public class Solution {
+
+    public static void main(String[] args) {
+        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+                       Scanner in = new Scanner(System.in);
+       
+        int m=0;
+        
+        List<Integer> row = new ArrayList<Integer>();
+        List<List<Integer>> array = new ArrayList<List<Integer>>();
+         int n = in.nextInt();
+        for(int i = 0;i<n;i++){
+            //input rows
+           
+            m = in.nextInt();
+            for (int j=0;j<m;j++){
+                row.add(in.nextInt());
+        
+            }
+        
+            array.add(row);
+            row= new ArrayList<Integer>();
+        }
+        n = in.nextInt();
+
+      
+        int x =0;
+        int y=0;
+        for(int i = 0;i<n;i++){
+            x = in.nextInt();
+            y = in.nextInt();
+            try {System.out.println( array.get(x-1).get(y-1) );}
+            catch (Exception e){System.out.println("ERROR!");}
+        }
+
+    }
+}
+	
+	
+	**Implements Comparator** <br>
+	
+	
+	class Checker implements Comparator<Player>{
+    @Override
+    public int compare(Player a, Player b){
+        if (a.score == b.score){
+            return a.name.compareTo(b.name);
+        } else {
+            return b.score - a.score;
+        }
+    }
+}
+
+**Following pseudocode** <br>
 
 
-<br>
-**RegExp**
+**RegEx** <br>
+
+**Exception handlig** <br>
+
+ class MyCalculator {
+     public int power (int n, int p) throws Exception {
+         
+         if(n < 0 || p < 0)
+              {throw new Exception("n and p should be non-negative");}
+         else {
+                 return ((int) Math.pow((double) n,(double) p));
+             }
+     }
+     
+     
+ }
+
