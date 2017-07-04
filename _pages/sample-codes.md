@@ -76,7 +76,8 @@ public class Solution {
 
 **Exception handlig** <br>
 
-`
+	
+~~~~
  class MyCalculator {
      public int power (int n, int p) throws Exception {
          
@@ -86,7 +87,9 @@ public class Solution {
                  return ((int) Math.pow((double) n,(double) p));
              }
      }
-     `
+     
      
  }
 
+	
+~~~~
