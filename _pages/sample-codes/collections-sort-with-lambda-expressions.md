@@ -16,6 +16,6 @@ for(Student st: studentList){
 System.out.println(st.getFname());
       }
 
-      ~~~~
+~~~~
       
       This code was used [at this challenge](https://www.hackerrank.com/challenges/java-sort/).
