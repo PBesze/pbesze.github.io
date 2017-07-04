@@ -64,15 +64,15 @@ Implementing abstract classes and interfaces are effective tools for the functio
 
 **Following pseudocode** <br>
 In a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in a trie search:
- [Example code >>>>](https://pbesze.github.io/sample-codes/following-pseudocode.md)
+ [Example code >>>>](https://pbesze.github.io/sample-codes/following-pseudocode.md){:target="_blank"}
 
 **RegEx** <br>
 Regular expressions are useful tools while managing text based objects.
- [Example code >>>>](https://pbesze.github.io/sample-codes/regex.md)
+ [Example code >>>>](https://pbesze.github.io/sample-codes/regex.md){:target="_blank"}
  
 **Exception handling** <br>
 Handling of exception is an important part of codeing especially when we code for real life data and  real users.
- [Example code >>>>](https://pbesze.github.io/sample-codesexception-handling.md)
+ [Example code >>>>](https://pbesze.github.io/sample-codesexception-handling.md){:target="_blank"}
 	
 ~~~~
  class MyCalculator {
