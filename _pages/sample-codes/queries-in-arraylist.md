@@ -20,16 +20,16 @@ public class Solution {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-                       Scanner in = new Scanner(System.in);
-       
-        int m=0;
+                       
+       Scanner in = new Scanner(System.in);
+       int m=0;
         
         List<Integer> row = new ArrayList<Integer>();
         List<List<Integer>> array = new ArrayList<List<Integer>>();
-         int n = in.nextInt();
+        int n = in.nextInt();
          
         for(int i = 0;i<n;i++){
-            //input rows
+            //input rows to Arraylist
            
             m = in.nextInt();
             for (int j=0;j<m;j++){
@@ -42,9 +42,10 @@ public class Solution {
         }
         n = in.nextInt();
 
-      
+      //selecting elemnts and catch the requested exception
         int x =0;
         int y=0;
+        
         for(int i = 0;i<n;i++){
             x = in.nextInt();
             y = in.nextInt();
