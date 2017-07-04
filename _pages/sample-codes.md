@@ -7,10 +7,10 @@ author_profile: true
 ---
 
 **Java Arraylist**<br>
-	To solve this task on [hackerrank.com]:(https://www.hackerrank.com/challenges/java-arraylist)
+To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist):
 	
 ~~~~
-  import java.io.*;
+import java.io.*;
 import java.util.*;
 import java.text.*;
 import java.math.*;
@@ -55,7 +55,7 @@ public class Solution {
 }
 ~~~~
 	
-	[**Implementing (the Comparator) interface**](https://pbesze.github.io/sample-codes/implements-comparator)
+[**Implementing (the Comparator) interface**](https://pbesze.github.io/sample-codes/implements-comparator)
   <br>
 	
 
