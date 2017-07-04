@@ -8,6 +8,7 @@ author_profile: true
 
 **Java Arraylist**<br>
 To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
+ <a href="http://example.com/" target="_blank">Hello, world!</a>
 	
 ~~~~
 import java.io.*;
