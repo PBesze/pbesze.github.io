@@ -8,7 +8,7 @@ author_profile: true
 Here you can see some *example codes* of me used in tasks and exercises during my studies.
 
 **Queries in Arraylist**<br>
-To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
+To solve [a task on hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"} I wrote the following code:
  [Example code >>>>](https://pbesze.github.io/sample-codes/queries-in-arraylist.md)
 	
 
