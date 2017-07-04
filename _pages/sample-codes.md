@@ -1,11 +1,11 @@
 ---
-title: "Sample-codes"
+title: "Sample codes"
 excerpt: "Sample-codes"
 sitemap: true
 permalink: /sample-codes/
 author_profile: true
 ---
-Here you can see some *exapmle codes* of me used in tasks and exercises during my studies.
+Here you can see some *example codes* of me used in tasks and exercises during my studies.
 
 **Queries in Arraylist**<br>
 To solve this task on [hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"}:
