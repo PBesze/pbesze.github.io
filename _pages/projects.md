@@ -9,7 +9,7 @@ author_profile: true
 You can visit my simple Java based web application  and their code here: <br><br>
 <a href="https://eyetrainer.herokuapp.com/">
     <input type="button" value="Eye trainer" />
-   </a><br>
+   </a><br><br>
 Source code: <a href="https://github.com/PBesze/eyetrainer">https://github.com/PBesze/eyetrainer</a><br>
 <br>
 
