@@ -9,6 +9,7 @@ author_profile: true
 In a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in a trie search:<br>
 
 ~~~~
+
 public List<String> predictCompletions(String prefix, int numCompletions) 
      {
     	 // TODO: Implement this method
