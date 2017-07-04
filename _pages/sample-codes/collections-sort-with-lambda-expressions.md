@@ -12,12 +12,13 @@ is also a functional interface and can be used with lambda expressions.
 
 
 ~~~~
+
 Collections.sort(studentList, Comparator.comparing(Student::getCgpa).reversed().thenComparing(Student::getFname).thenComparing(Student::getId) );
 
 for(Student st: studentList){
 System.out.println(st.getFname());
       }
-~~~~
-
       
-      This code was used [at this challenge](https://www.hackerrank.com/challenges/java-sort/).
+~~~~
+  
+This code was used [at this challenge](https://www.hackerrank.com/challenges/java-sort/).
