@@ -6,9 +6,9 @@ permalink: /implements-comparator/
 author_profile: true
 ---
 
-	**Implements Comparator** 
+**Implements Comparator** 
 	
-	~~~~
+~~~~
 	class Checker implements Comparator<Player>{
     @Override
     public int compare(Player a, Player b){
