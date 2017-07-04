@@ -1,5 +1,5 @@
 ---
-title: "queries in arraylist"
+title: "Queries in arraylist"
 excerpt: "queries-in-arraylist"
 sitemap: true
 permalink: /sample-codes/queries-in-arraylist/
