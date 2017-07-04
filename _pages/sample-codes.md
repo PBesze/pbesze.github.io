@@ -56,7 +56,7 @@ public class Solution {
 }
 ~~~~
 	
-	**[Implements Comparator] (https://pbesze.github.io/sample-codes/implements-comparator)**
+	[Implements Comparator] (https://pbesze.github.io/sample-codes/implements-comparator)
   <br>
 	
 
