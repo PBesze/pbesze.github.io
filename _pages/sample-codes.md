@@ -13,7 +13,7 @@ To solve [a task on hackerrank.com](https://www.hackerrank.com/challenges/java-a
 	 <br>
    
 **Following pseudocode** <br>
-In a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in this trie search:<br>
+For a complicated algorithm it is usefull to write and follow pseudocode as it was done for example in this trie search:<br>
  [Example code >>>>](https://pbesze.github.io/sample-codes/following-pseudocode)
  <br>
  
