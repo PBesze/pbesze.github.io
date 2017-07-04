@@ -9,12 +9,13 @@ author_profile: true
 You can visit my simple Java based web application  and their code here: <br><br>
 <a href="https://eyetrainer.herokuapp.com/">
     <input type="button" value="Eye trainer" />
-   </a>
+   </a><br>
 Source code: <a href="https://github.com/PBesze/eyetrainer">https://github.com/PBesze/eyetrainer</a><br>
 <br><br>
 <br><br>
 
-*The following aoolications were made for a community project, so their code is not organized and 'clean'!* 
+*The following applications were made for a community project, so their code is not organized and 'clean'!* 
+
 JSF playground:<br>
 Application: <a href="https://drioca-demo1.herokuapp.com/">https://drioca-demo1.herokuapp.com/</a><br>
 Source code: <a href="https://github.com/drioca/demo1">https://github.com/drioca/demo1</a><br>
