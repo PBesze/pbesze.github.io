@@ -6,16 +6,17 @@ permalink: /projects/
 author_profile: true
 ---
 
-You can visit my simple Java based web application  and their code here: <br><br>
-<a href="https://eyetrainer.herokuapp.com/" target="_blank">
-    <input type="button" value="Eye trainer" />
+You can visit my simple Java based web applications  and their codes here: <br><br>
+**Eye trainer**
+Application:<a href="https://eyetrainer.herokuapp.com/" target="_blank">
+   https://eyetrainer.herokuapp.com/
    </a><br><br>
 Source code: <a href="https://github.com/PBesze/eyetrainer" target="_blank">https://github.com/PBesze/eyetrainer</a><br>
 <br>
 
 *The following applications were made for a community project, so their code is not organized and 'clean'!* 
 
-**JSF playground:**<br>
+**JSF 2.0 playground:**<br>
 Application: <a href="https://drioca-demo1.herokuapp.com/" target="_blank">https://drioca-demo1.herokuapp.com/</a><br>
 Source code: <a href="https://github.com/drioca/demo1" target="_blank">https://github.com/drioca/demo1</a><br>
 <br><br>
