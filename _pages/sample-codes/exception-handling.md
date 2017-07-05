@@ -5,7 +5,7 @@ sitemap: true
 permalink: /sample-codes/exception-handling/
 author_profile: true
 ---
-Handling of exceptions is an important part of codeing especially when we code for real life data and real users.<br>
+Handling of exceptions is an important part of coding, especially when we code for real life data and real users.<br>
 
 
 ~~~~
