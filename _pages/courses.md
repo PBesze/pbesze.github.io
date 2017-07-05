@@ -27,9 +27,8 @@ authorized by *University of California, San Diego* and offered through Coursera
 <br><br>
 April 2017 		**30 Days of Code – Java** - [*www.hackerrank.com*](https://www.hackerrank.com/domains/tutorials/30-days-of-code){:target="_blank"} <br>
 <br>
-April 2017 - ... **Java challenges on hackerrank.com** - 
-                                                          [/Java/Hun>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=5&practice=java){:target="_blank"} 
-                                                          [/Java>>>>]https://www.hackerrank.com/leaderboard?page=500&practice=java){:target="_blank"} 
+April 2017 - ... **Java challenges on hackerrank.com** - [/Java/Hun>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=5&practice=java){:target="_blank"}<br>
+                                                         [/Java>>>>]https://www.hackerrank.com/leaderboard?page=500&practice=java){:target="_blank"} 
 <br><br>
 
    
