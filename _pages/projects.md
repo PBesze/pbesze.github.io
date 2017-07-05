@@ -21,4 +21,4 @@ Source code: <a href="https://github.com/drioca/demo1" target="_blank">https://g
 <br><br>
 **Prime faces UI:**<br>
 Application: <a href="https://drioca-trainer.herokuapp.com/" target="_blank">https://drioca-trainer.herokuapp.com/</a><br>
-Source code: <a href="https://github.com/drioca/trainer1" target="_blank">https://github.com/drioca/trainer1</a></li><br>
+Source code: <a href="https://github.com/drioca/trainer1" target="_blank">https://github.com/drioca/trainer1</a><br>
