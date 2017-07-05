@@ -5,7 +5,7 @@ sitemap: true
 permalink: /sample-codes/
 author_profile: true
 ---
-Here you can see some of my example codes used in tasks and exercises during my studies.
+Here you can see some of my example codes used in tasks and exercises during my studies.<br>
 *(All of the codes are tested automatedly and accepted in the tasks.)*
 
 **Queries in Arraylist**<br>
