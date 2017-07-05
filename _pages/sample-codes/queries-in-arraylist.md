@@ -20,33 +20,35 @@ public class Solution {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-                       
-       Scanner in = new Scanner(System.in);
-       int m=0;
-        
-        List<Integer> row = new ArrayList<Integer>();
-        List<List<Integer>> array = new ArrayList<List<Integer>>();
+        List<Integer> row;
+        List<List<Integer>> array = new ArrayList<List<Integer>>();               
+        Scanner in = new Scanner(System.in);
+        //input the number of rows
         int n = in.nextInt();
-         
-        for(int i = 0;i<n;i++){
-            //input rows to Arraylist
-           
-            m = in.nextInt();
-            for (int j=0;j<m;j++){
-                row.add(in.nextInt());
+        int m=0;
         
+        for(int i = 0;i<n;i++)
+        {
+        //input rows to Arraylist
+            m = in.nextInt();
+            row= new ArrayList<Integer>();
+            for (int j=0;j<m;j++)
+            {
+                row.add(in.nextInt());
             }
         
             array.add(row);
-            row= new ArrayList<Integer>();
+            
         }
+        //input the number of selections
         n = in.nextInt();
 
-      //selecting elemnts and catch the requested exception
+         //selecting elemnts and catch the requested exception
         int x =0;
         int y=0;
         
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<n;i++)
+        {
             x = in.nextInt();
             y = in.nextInt();
             try {System.out.println( array.get(x-1).get(y-1) );}
