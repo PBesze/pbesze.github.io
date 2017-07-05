@@ -1,8 +1,8 @@
 ---
-title: "Implements Comparator"
-excerpt: "implements-comparator"
+title: "Implementing the Comparator interface"
+excerpt: "implementing-the-comparator-interface"
 sitemap: true
-permalink: sample-codes/implements-comparator/
+permalink: sample-codes/implementing-the-comparator-interface/
 author_profile: true
 ---
 Implementing abstract classes and interfaces is an effective tools for the functionality of multiple inheritance.
