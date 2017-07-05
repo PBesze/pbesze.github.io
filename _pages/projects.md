@@ -8,9 +8,7 @@ author_profile: true
 
 You can visit my simple Java based web applications  and their codes here: <br><br>
 **Eye trainer**
-Application:<a href="https://eyetrainer.herokuapp.com/" target="_blank">
-   https://eyetrainer.herokuapp.com/
-   </a>
+Application:<a href="https://eyetrainer.herokuapp.com/" target="_blank">https://eyetrainer.herokuapp.com/</a><br>
 Source code: <a href="https://github.com/PBesze/eyetrainer" target="_blank">https://github.com/PBesze/eyetrainer</a><br>
 <br>
 
