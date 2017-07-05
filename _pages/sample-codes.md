@@ -6,7 +6,7 @@ permalink: /sample-codes/
 author_profile: true
 ---
 Here you can see some of my example codes used in tasks and exercises during my studies.<br>
-*(All of the codes were tested and accepted in the tasks.)*
+*(All of the codes were succeeded at automated testing and accepted in the tasks.)*
 
 **Queries in Arraylist**<br>
 To solve [a task on hackerrank.com](https://www.hackerrank.com/challenges/java-arraylist){:target="_blank"} I wrote the following code:<br>
