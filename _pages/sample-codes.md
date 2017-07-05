@@ -29,7 +29,7 @@ The compareTo method is another way of comparing objects:<br>
   <br>
  
   **Collections.sort with lambda expressions**<br>
-Interface Comparator is also a functional interface and can be used with lambda expressions.
+[`Interface Comparator <T>`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html){:target="_blank"} is a functional interface and can be used with lambda expressions.
 <br>
 [Example code >>>>](https://pbesze.github.io/sample-codes/collections-sort-with-lambda-expressions)
   
