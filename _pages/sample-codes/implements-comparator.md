@@ -5,7 +5,7 @@ sitemap: true
 permalink: sample-codes/implements-comparator/
 author_profile: true
 ---
-
+Implementing abstract classes and interfaces is an effective tools for the functionality of multiple inheritance.
 In this simple generaly known example Checker class implements [`Interface Comparator <T>`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html), that players are compared by score and name: 
 	
 ~~~~
