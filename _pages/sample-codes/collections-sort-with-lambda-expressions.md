@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 [`Interface Comparator <T>`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html){:target="_blank"} 
-is also a functional interface and can be used with lambda expressions.
+is a functional interface and can be used with lambda expressions.
 <br>
 
 
