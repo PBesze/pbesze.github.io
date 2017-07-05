@@ -29,7 +29,7 @@ The compareTo method is another way of comparing objects:<br>
   <br>
  
   **Collections.sort with lambda expressions**<br>
-The [`sort(List<T> list, Comparator<? super T> c) method of the Collections class`] (https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html){:target="_blank"} enables to use lambda expressions in sorting:
+The [`sort(List<T> list, Comparator<? super T> c) method of the Collections class`](https://docs.oracle.com/javase/8/docs/api/java/util/Collections.html){:target="_blank"} enables to use lambda expressions in sorting:
 <br>
 [Example code >>>>](https://pbesze.github.io/sample-codes/collections-sort-with-lambda-expressions)
   
