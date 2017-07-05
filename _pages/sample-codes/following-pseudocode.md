@@ -36,37 +36,37 @@ public List<String> predictCompletions(String prefix, int numCompletions)
  					for(int i=0;i<prefix.length();i++)
  					{
  						if (curr.getChild(prefix.charAt(i))== null){return predi;}
- 						if (curr!=null){
- 							curr=curr.getChild(prefix.charAt(i));
- 					}}
+ 						if (curr!=null){curr=curr.getChild(prefix.charAt(i));}
+          }
  		//add stem&childs to the queue
  			if(curr.endsWord()){predi.add(curr.getText());}
  					Set<Character> chars = curr.getValidNextCharacters();
- 					for (char next: chars){
-							if(curr.getChild(next)!=null)
-							{q.add(curr.getChild(next)); }	
-							
-						}
+ 					for (char next: chars)
+          {
+							if(curr.getChild(next)!=null){q.add(curr.getChild(next)); }	
+					}
  					
  		// WHILE the queue is not empty and you don't have enough completions:
- 					while (q.size()>0&&predi.size()<numCompletions){
+ 					while (q.size()>0&&predi.size()<numCompletions)
+          {
  						
  		//	remove the first Node from the queue
- 						curr=q.remove();
+ 					  curr=q.remove();
  		//  If it is a word, add it to the completions list	
- 					if(curr.endsWord()){predi.add(curr.getText());}
+ 					  if(curr.endsWord()){predi.add(curr.getText());}
  		//  add its children to the queue ---> WHILE
- 					chars = curr.getValidNextCharacters();
- 					for (char next: chars){
-							if(curr.getChild(next)!=null)
-							{q.add(curr.getChild(next)); }	
+ 					  chars = curr.getValidNextCharacters();
+ 					  for (char next: chars)
+            {
+							if(curr.getChild(next)!=null){q.add(curr.getChild(next));}	
 						;}
  					}
  		// return first numCompletions from predi
- 					if (predi.size()>0){
+ 					if (predi.size()>0)
+          {
  						if(predi.size()<=numCompletions){numCompletions=predi.size();}
- 						//System.out.println(predi.subList(0, numCompletions));
- 						return predi.subList(0, numCompletions);}
+ 						return predi.subList(0, numCompletions);
+            }
  					
          return Collections.emptyList();
      }
