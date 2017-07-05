@@ -17,7 +17,7 @@ For a complicated algorithm it is usefull to write and follow pseudocode as it w
  [Example code >>>>](https://pbesze.github.io/sample-codes/following-pseudocode)
  <br>
  
-**Implementing (the Comparator) interface**
+**Implementing (the Comparator) interface**<br>
 Implementing abstract classes and interfaces are effective tools for the functionality of multiple inheritance.<br>
 [Example code >>>>](https://pbesze.github.io/sample-codes/implements-comparator)
   <br>
