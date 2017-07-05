@@ -20,7 +20,7 @@ For a complicated algorithm it is useful to write and follow a pseudocode as it 
  
 **Implementing (the Comparator) interface**<br>
 Implementing abstract classes and interfaces is an effective tools for the functionality of multiple inheritance.<br>
-[Example code >>>>](https://pbesze.github.io/sample-codes/implements-comparator)
+[Example code >>>>](https://pbesze.github.io/sample-codes/implementing-the-comparator-interface)
   <br>
 
 **Implementing compareTo() method** <br>
