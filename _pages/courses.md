@@ -26,6 +26,8 @@ authorized by *University of California, San Diego* and offered through Coursera
    <a href="https://www.coursera.org/account/accomplishments/certificate/PZ36FS4LZLHN" target="_blank">
     <input type="button" value="Certificate" />
    </a>
+  <br><br>
+   ![image](../images/eqcM_PS_2_ok.jpg)
 <br><br>
 April 2017 		**30 Days of Code – Java** - [*www.hackerrank.com*](https://www.hackerrank.com/domains/tutorials/30-days-of-code){:target="_blank"} <br>
 <br>
