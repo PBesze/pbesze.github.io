@@ -8,11 +8,10 @@ author_profile: true
 The compareTo() method is another way of comparing objects:
 
 ~~~~
+    // TODO: Add the method:
+    // public int compareTo(EarthquakeMarker marker)
 
-	// TODO: Add the method:
-	// public int compareTo(EarthquakeMarker marker)
-  
-      // Earthquake Magnitude is not linear!
+    // Earthquake Magnitude is not linear!
   
   public int compareTo(EarthquakeMarker marker){
 		if (marker.getMagnitude()>this.getMagnitude()) return 1;
