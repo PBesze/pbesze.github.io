@@ -16,7 +16,7 @@ authorized by *University of California, San Diego* and offered through Coursera
     <input type="button" value="Certificate" />
    </a>
    <br><br>
-   ![image](../images/trie.jpg=300x132)
+   ![image](../images/trie.jpg | width=100)
 <br><br>
 May 2017 		**Object Oriented Programming in Java**<br>
 authorized by *University of California, San Diego* and offered through Coursera<br>
@@ -27,7 +27,7 @@ authorized by *University of California, San Diego* and offered through Coursera
     <input type="button" value="Certificate" />
    </a>
   <br><br>
-   ![image](../images/eqcM_PS_2_ok.jpg)
+   ![image](../images/eqcM_PS_2_ok.jpg | width=100)
 <br><br>
 April 2017 		**30 Days of Code – Java** - [*www.hackerrank.com*](https://www.hackerrank.com/domains/tutorials/30-days-of-code){:target="_blank"} <br>
 <br>
