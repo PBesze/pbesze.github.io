@@ -16,7 +16,7 @@ authorized by *University of California, San Diego* and offered through Coursera
     <input type="button" value="Certificate" />
    </a>
    <br><br>
-   ![image](../images/trie.jpg){:width="300px"}
+   [![image](../images/trie.jpg){:width="300px"}](../images/trie.jpg){:target="_blank"}
 <br><br>
 May 2017 		**Object Oriented Programming in Java**<br>
 authorized by *University of California, San Diego* and offered through Coursera<br>
