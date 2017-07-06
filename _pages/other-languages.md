@@ -11,5 +11,6 @@ I got to know some basics in other languages:<br>
 - **Ruby** [>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=1&practice=ruby){:target="_blank"}
 <br>
 - Visual Basic<br>
+- Html<br>
 
 I used also CMS like: **WordPress**, **Blogger** and this page in Jekyll<br>
