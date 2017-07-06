@@ -11,6 +11,7 @@ The compareTo() method is another way of comparing objects:
 
 	// TODO: Add the method:
 	// public int compareTo(EarthquakeMarker marker)
+  
   // Earthquake Magnitude is not linear!
   
   public int compareTo(EarthquakeMarker marker){
