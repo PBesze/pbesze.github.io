@@ -8,7 +8,7 @@ author_profile: true
 <br>
 I tasted Ruby and I started to learn it too.<br>
 Here you can see:<br>
-- My **Ruby** rank on hackerrank.com<br> [>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=1&practice=ruby){:target="_blank"}<br>
+- My **Ruby** rank on hackerrank.com [>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=1&practice=ruby){:target="_blank"}<br>
 - The first steps of a simple under constructions ruby on rails app on Heroku, what I develop while learning [>>>>](https://bpmyapp2.herokuapp.com/){:target="_blank"}
 <br><br>
 
