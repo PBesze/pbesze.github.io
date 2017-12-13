@@ -5,8 +5,10 @@ sitemap: true
 permalink: /courses/
 author_profile: true
 ---
-
 <br>
+Dec **2017 Learn Ruby**<br>
+www.codecademy.com<br>
+<br><br>
 Jun 2017 		**Data Structures and Performance**<br>
 authorized by *University of California, San Diego* and offered through Coursera<br>
 <a href="https://www.coursera.org/learn/data-structures-optimizing-performance" target="_blank">
