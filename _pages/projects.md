@@ -22,7 +22,8 @@ Source code: I'm using Heroku-git so the code is not shared yet . But feel free 
 *The following applications were made for a community project, so their code is not organized and 'clean'!* 
 
 **JSF 2.0 playground:**<br>
-Application: <a href="https://drioca-demo1.herokuapp.com/" target="_blank">https://drioca-demo1.herokuapp.com/</a><br>
+JSF 2 based application with native SQL commands to register and manage data.<br>
+Application: (currently unavailable)<br>
 Source code: <a href="https://github.com/drioca/demo1" target="_blank">https://github.com/drioca/demo1</a><br>
 <br><br>
 **Prime faces UI:**<br>
