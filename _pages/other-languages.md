@@ -6,12 +6,13 @@ permalink: /other-languages/
 author_profile: true
 ---
 <br>
-I tasted Ruby and I started to learn it too.<br>
+I tasted Ruby and I started to learn it too. (
+Dec 2017 **Learn Ruby**  [*www.codecademy.com*](https://www.codecademy.com/learn/learn-ruby){:target="_blank"} )
+<br><br>
 Here you can see:<br>
 - My **Ruby** rank on hackerrank.com [>>>>>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=1&practice=ruby){:target="_blank"}<br><br>
 
-Dec 2017 **Learn Ruby**  [*www.codecademy.com*](https://www.codecademy.com/learn/learn-ruby){:target="_blank"} 
-<br><br>
+
 - The first steps of a simple under constructions ruby on rails app on Heroku, what I develop while learning.<br>
 It is a twin of my spring based Java webapp. [>>>>>>>>](https://erex-rails-bp.herokuapp.com//){:target="_blank"}
 <br><br>
@@ -21,7 +22,7 @@ Sourcecode for the homework 'Ruby Intro'
 [>>>>>>>>](https://github.com/PBesze/hw-ruby-intro/blob/master/lib/ruby_intro.rb){:target="_blank"}
 <br>
 A simple 'Hangperson' game in Sinatra 
-[>>>>](https://glacial-reaches-11177.herokuapp.com){:target="_blank"}
+[>>>>>>>>](https://glacial-reaches-11177.herokuapp.com){:target="_blank"}
 <br><br>
 
 Furthermore:<br>
