@@ -14,6 +14,14 @@ It is a twin of my spring based Java webapp.<br>
 [>>>>](https://erex-rails-bp.herokuapp.com//){:target="_blank"}
 <br><br>
 
+- Homeworks for Agile Development Using Ruby on Rails - The Basics - Learn Software as a Service (SaaS) using Ruby on Rails by BerkleyX:(https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x-1){:target="_blank"}<br>
+Sourcecode for the homework 'Ruby Intro' <br>
+[>>>>](){:target="_blank"}
+<br>
+A simple 'Hangperson' game in Sinatra<br>
+[>>>>](https://glacial-reaches-11177.herokuapp.com){:target="_blank"}
+<br><br>
+
 Furthermore:<br>
 I use simple **SQL** on a daily basis.<br>
 I used also CMS like: **WordPress**, **Blogger** and this page in Jekyll<br>
