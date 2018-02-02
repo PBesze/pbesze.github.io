@@ -13,7 +13,7 @@ Here you can see:<br>
 - My **Ruby** rank on hackerrank.com [>>>>>>>>](https://www.hackerrank.com/leaderboard?country=Hungary&page=1&practice=ruby){:target="_blank"}<br><br>
 
 
-- The first steps of a simple under constructions ruby on rails app on Heroku, what I develop while learning.<br>
+- The first steps of a simple under constructions (scaffolded) ruby on rails app on Heroku, what I develop while learning.<br>
 It is a twin of my spring based Java webapp. [>>>>>>>>](https://erex-rails-bp.herokuapp.com//){:target="_blank"}
 <br><br>
 
