@@ -1,8 +1,8 @@
 ---
-title: "Other languages"
-excerpt: "Other Software languages "
+title: "Other skills"
+excerpt: "Other Software development skills"
 sitemap: true
-permalink: /other-languages/
+permalink: /other-skills/
 author_profile: true
 ---
 <br><br>
