@@ -1,10 +1,7 @@
 # main links links
 main:
  
-
-  - title: "Courses"
-    url: https://pbesze.github.io/courses
-      
+   
   - title: "Test Center"
     url: https://pbesze.github.io/testcenter
     
@@ -13,3 +10,7 @@ main:
     
   - title: "Other languages"
     url: https://pbesze.github.io/other-languages
+      
+  - title: "Courses"
+    url: https://pbesze.github.io/courses
+   
