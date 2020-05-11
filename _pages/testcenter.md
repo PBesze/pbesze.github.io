@@ -12,3 +12,6 @@ Here you can see the results of some tests:
 Robot framework - (Magento based) webshop testing:<br>
 - [Test results - landing page](http://94.177.227.10/log/titkoslink.html){:target="_blank"}<br><br>
 
+Robot framework - Viola from Ebay - testing:<br>
+- [Test results - Suit Report page with further log links ](http://94.177.227.10/log2/report.html#suites?s1){:target="_blank"}<br><br>
+
