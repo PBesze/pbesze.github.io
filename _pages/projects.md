@@ -21,7 +21,7 @@ Source code: I'm using Heroku-git so the code is not shared yet . But feel free 
 
 **RonR** - The first steps of a simple (scaffolded) Ruby on Rails app on Heroku, what I develop while learning.<br>
 It is a twin of my spring based Java webapp. [>>>>>>>>](https://erex-rails-bp.herokuapp.com//){:target="_blank"}
-<br>under construction
+<br>(under construction)
 <br><br>
 
 **RonR**  -Homework for [Agile Development Using Ruby on Rails - The Basics - Learn Software as a Service (SaaS) using Ruby on Rails by BerkleyX:](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x-1){:target="_blank"}<br>
