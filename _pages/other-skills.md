@@ -9,11 +9,11 @@ author_profile: true
 
 ***Keywords & Languges:***<br> <br>
 **Python** for automated testing<br><br>
-**Ruby** because it's a joy to code 
-<li>A scaffolded app: <a href"=https://erex-rails-bp.herokuapp.com" target="_blank">Event registry</a></li>
-<li>A simple game in Sinatra: <a href"=https://glacial-reaches-11177.herokuapp.com" target="_blank">'Hangperson' </a></li>
+**Ruby** because it's a joy to code <br>
+- a scaffolded app: <a href="https://erex-rails-bp.herokuapp.com" target="_blank">Event registry</a><br>
+- a simple game in Sinatra: <a href="https://glacial-reaches-11177.herokuapp.com" target="_blank">'Hangperson' </a><br>
 **Java**
-<li>Just a simple tool for your eyes: <a href="https://eyetrainer.herokuapp.com/" target="_blank">eye-trainer</a></li><br><br>
+- just a simple tool for your eyes: <a href="https://eyetrainer.herokuapp.com/" target="_blank">eye-trainer</a><br><br>
 
 **SQL** on a daily basis<br>
 some **ba-sh**<br>
