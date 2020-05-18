@@ -7,7 +7,7 @@ author_profile: true
 ---
 <br><br>
 
-***Keywords & Languges:***<br> <br>
+***Languges:***<br> <br>
 **Python** for automated testing<br><br>
 **Ruby** because it's a joy to code <br>
 - a scaffolded app: <a href="https://erex-rails-bp.herokuapp.com" target="_blank">Event registry</a><br>
@@ -15,7 +15,7 @@ author_profile: true
 
 **Java**
 - just a simple tool for your eyes: <a href="https://eyetrainer.herokuapp.com/" target="_blank">eye-trainer</a><br><br>
-
+***Keywords & other skills:***<br> <br>
 **SQL** on a daily basis<br>
 some **ba-sh**<br>
 CMS like: **WordPress**, **Blogger** and this page in **Jekyll**<br>
