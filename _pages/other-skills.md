@@ -14,7 +14,7 @@ author_profile: true
  - a simple game in Sinatra: <a href="https://glacial-reaches-11177.herokuapp.com" target="_blank">'Hangperson' </a><br>
 
  **Java**
- - just a simple tool for your eyes: <a href="https://eyetrainer.herokuapp.com/" target="_blank">eye-trainer</a><br><br>
+ - just a simple tool for your eyes: <a href="https://eyetrainer.herokuapp.com/" target="_blank">Eye-trainer</a><br><br>
 
 ***Keywords & other skills:***<br> <br>
  **SQL** on a daily basis<br>
