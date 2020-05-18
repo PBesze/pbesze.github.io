@@ -8,7 +8,7 @@ author_profile: true
 <br><br>
 
 ***Languges:***<br> <br>
- **Python** for automated testing<br><br>
+ **Python** for example automated testing and a lot of other issues<br><br>
  **Ruby** because it's a joy to code <br>
  - a scaffolded app: <a href="https://erex-rails-bp.herokuapp.com" target="_blank">Event registry</a><br>
  - a simple game in Sinatra: <a href="https://glacial-reaches-11177.herokuapp.com" target="_blank">'Hangperson' </a><br>
