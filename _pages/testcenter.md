@@ -14,4 +14,4 @@ Robot framework - (Magento based) **Pharmacy webshop** testing:<br>
 
 Robot framework - Viola from **Ebay** - testing:<br>
 - [Test results - landing page](http://94.177.227.10/log2/secretlink.html){:target="_blank"}<br><br>
-*I'm open for involving another pages, too.<br> Contact me by email if interested*
+*I'm open for involving another pages, too.<br> Contact me by email if interested.*
