@@ -1,6 +1,6 @@
 ---
-title: "Test Center"
-excerpt: "Test Center"
+title: "TestCenter"
+excerpt: "TestCenter"
 sitemap: true
 permalink: /testcenter/
 author_profile: true
