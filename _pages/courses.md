@@ -6,6 +6,12 @@ permalink: /courses/
 author_profile: true
 ---
 <br>
+Dec 2017 **Become a Test Automation Engineer**  - [LinkedIn - March 2020](https://www.linkedin.com/learning/paths/become-a-test-automation-engineer){:target="_blank"} 
+<br><br>
+<br>
+Dec 2017 **Using Python for Automation**  - [LinkedIn - February 2020](https://www.linkedin.com/learning/using-python-for-automation){:target="_blank"} 
+<br><br>
+<br>
 Dec 2017 **Learn Ruby**  [*www.codecademy.com*](https://www.codecademy.com/learn/learn-ruby){:target="_blank"} 
 <br><br>
 Jun 2017 		**Data Structures and Performance**<br>
