@@ -7,8 +7,11 @@ author_profile: true
 ---
 <br>
 I manage a test server in the cloud, from where I run automated tests<br><br>
-Where you can see (workshop-level) results of Robot framework tests.<br><br>
-Currently the testserver is under reorganization.<br><br>
+There you can see (workshop-level) results of Robot framework tests.<br><br>
+Currently 2 tests run regularly:<br><br>
+Pharmacy webshop:
+
+Ebay shopping:
 
 
 
